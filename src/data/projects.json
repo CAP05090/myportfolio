@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Super Hero resume",
+        "imagesrc":"projects/superhero.png",
+        "description":[
+            "Developed a frontend project using HTML5, CSS3, and JavaScript.",
+            "Created an interactive and user-friendly interface for building resumes.",
+            "Implemented Git version control for efficient collaboration and code managemen"
+        ],
+        "skills":["HTML", "CSS"],
+        "demo":"https://gilded-parfait-836c62.netlify.app/",
+        "source":"https://github.com/CAP05090/Projects/blob/main/superhero_resume.html"
+    },
+    {
+        "title":"Fitness Blender",
+        "imagesrc":"projects/fitnessBlender.png",
+        "description":[
+            "Developed a responsive front-end for a fitnessapplication using React.js, Node.js, CSS3, and HTML5.",
+            "Implemented user authentication and authorization using JWT for secure access to the application"
+        ],
+        "skills":["React", "NodeJs", "CSS"],
+        "demo":"https://melodious-treacle-2d53f8.netlify.app",
+        "source":"https://github.com/CAP05090/Projects/tree/main/FitnessBlender"
+    }
+    
+]
